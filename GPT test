@@ -1,0 +1,4 @@
+from chatgpt_bot import Conversation
+
+conversation = conversation("ID", api_key=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)
+converation.ask("i am running this as a python script i made, do you think it is good?)
